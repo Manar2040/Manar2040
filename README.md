@@ -15,7 +15,7 @@ I'm Manar, a passionate software engineering student with a keen interest in pro
 
 ## 🔧 Skills
 
-- **Languages:** C++ , Java.
+- **Languages:** C++ , Java , SQL.
 
 
 ## 🌱 Learning & Interests
